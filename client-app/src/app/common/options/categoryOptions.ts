@@ -5,4 +5,6 @@ export const categoryOptions = [
     {text: 'Food', value: 'food'},
     {text: 'Music', value: 'music'},
     {text: 'Travel', value: 'travel'},
+    {text: 'Concert', value: 'concert'},    
+    {text: 'Theatre', value: 'theatre'},        
 ]
